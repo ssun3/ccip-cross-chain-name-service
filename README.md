@@ -1,3 +1,13 @@
+# CCIP BOOTCAMP HOMEWORK 2
+
+To verify homework result run:
+
+```bash
+npm run compile
+npm run test
+```
+
+
 ## CCIP Cross Chain Name Service
 
 > **Note**
